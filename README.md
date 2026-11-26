@@ -1,6 +1,6 @@
 # kairo-site
 
-Site da Kairo: cardápio digital que a cozinha atualiza pelo WhatsApp. **falou. mudou.**
+Site da Kairos: cardápio digital que a cozinha atualiza pelo WhatsApp. **falou. mudou.**
 
 Uma página estática (`index.html`) com duas demos que rodam no navegador, sem servidor:
 
